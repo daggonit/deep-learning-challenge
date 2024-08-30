@@ -58,6 +58,7 @@ The purpose of this analysis was to create and optimize a deep learning model to
 
 - **Recommendation for Future Models:**
   -Model Improvements: To achieve higher accuracy, it is crucial to experiment with different neural network architectures. Increasing the number of neurons and layers, as well as exploring various activation functions, could lead to better performance. Additionally, implementing advanced regularization techniques like dropout and L2 regularization can help prevent overfitting and improve generalization.
-  -Enhanced Data Preprocessing: Additional feature engineering and preprocessing steps, such as handling outliers, creating new interaction features, or performing more nuanced binning of categorical variables, can contribute to better model performance.
+
+   -Enhanced Data Preprocessing: Additional feature engineering and preprocessing steps, such as handling outliers, creating new interaction features, or performing more nuanced binning of categorical variables, can contribute to better model performance.
 
 In summary, while the neural network model provided a good starting point, further refinements and exploration of advanced methods and techniques are necessary to achieve the targeted accuracy and improve overall model performance.
